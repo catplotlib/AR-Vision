@@ -7,12 +7,12 @@ The AR-Vision project is a computer vision project that utilizes augmented reali
 The project includes several components such as a camera calibration module, a feature detection and tracking module, a rendering engine, and an interface to control and manipulate virtual objects. The project also includes several sample applications such as virtual object placement, object recognition, and face tracking. The project can be used as a starting point for developing more complex AR applications, or as a learning resource for computer vision and augmented reality technologies.
 
 After running the main function, the code will look for the chessboard image throught the camera: 
--To show 3D axes, hit the 'x' key.
--To exhibit virtual objects, use the 'd' key.
--To present Harris corners, push the 'r' key.
--To keep the current image frame for calibration, hit the 's' key. If you save more than five frames, continuous calibration will start automatically.
--To save the current calibration in a CSV file, use the 'c' key.
--To capture a screenshot of the current displayed video frame, press the 'k' key.
+- To show 3D axes, hit the 'x' key.
+- To exhibit virtual objects, use the 'd' key.
+- To present Harris corners, push the 'r' key.
+- To keep the current image frame for calibration, hit the 's' key. If you save more than five frames, continuous calibration will start automatically.
+- To save the current calibration in a CSV file, use the 'c' key.
+- To capture a screenshot of the current displayed video frame, press the 'k' key.
 
 I have implemented two extensions:
 -For the first extension I used a different type of target called the asymmetric circle grid and calibrated my system again in a similar manner as done for the checkerboard target.
