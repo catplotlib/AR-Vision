@@ -16,20 +16,20 @@ https://user-images.githubusercontent.com/61319491/236359714-d5d335d3-8c89-438c-
 To run the project, execute the main function. The code will search for either the chessboard or circle-grid image through the camera, depending on the selected mode.
 
 ### Chessboard Mode Controls
-x: Show 3D axes
-d: Display virtual objects
-r: Show Harris corners
-s: Save the current image frame for calibration (if more than five frames are saved, continuous calibration starts automatically)
-c: Save the current calibration as a CSV file
-k: Capture a screenshot of the current video frame
+- x: Show 3D axes
+- d: Display virtual objects
+- r: Show Harris corners
+- s: Save the current image frame for calibration (if more than five frames are saved, continuous calibration starts automatically)
+- c: Save the current calibration as a CSV file
+- k: Capture a screenshot of the current video frame
 
 ### Circle-Grid Mode Controls
-x: Show 3D axes
-d: Display virtual objects
-p: Turn the target into an art canvas
-s: Save the current image frame for calibration (if more than five frames are saved, continuous calibration begins automatically)
-c: Save the current calibration as a CSV file
-k: Capture a screenshot of the current video frame
+- x: Show 3D axes
+- d: Display virtual objects
+- p: Turn the target into an art canvas
+- s: Save the current image frame for calibration (if more than five frames are saved, continuous calibration begins automatically)
+- c: Save the current calibration as a CSV file
+- k: Capture a screenshot of the current video frame
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements, bug fixes, or new features.
