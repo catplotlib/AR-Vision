@@ -3,7 +3,9 @@ AR-Vision is a computer vision project that combines augmented reality (AR) with
 
 ## Demo
 
-https://user-images.githubusercontent.com/61319491/236359714-d5d335d3-8c89-438c-89ab-82184dcea746.mov
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7042280218786480128" height="728" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 
 ## Features
 - Camera calibration module
